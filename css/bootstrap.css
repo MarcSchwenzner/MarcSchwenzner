@@ -8183,3 +8183,15 @@ a.text-dark:focus, a.text-dark:hover {
   visibility: hidden !important;
 }
 /*# sourceMappingURL=bootstrap.css.map */
+.cwolfi{
+  background-color: #FFC833;
+  margin-right: 2rem;
+  margin-left: 2rem;
+  padding: 5rem 3rem;
+  overflow:hidden;
+}
+.ewahl{
+  background-color: #006137;
+  margin-left: 2rem;
+  padding: 5rem 3rem;
+}
