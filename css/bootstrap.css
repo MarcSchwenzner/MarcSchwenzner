@@ -8190,10 +8190,19 @@ a.text-dark:focus, a.text-dark:hover {
   padding: 5rem 3rem;
   overflow:hidden;
 }
+.cwolfiheader{
+  background-color: #FFC833;
+
+}
+.ewahlheader{
+  background-color: #006137;
+}
+
 #cwolfilogo{
   max-width: 100%;
   height: auto;
 }
+
 #ewahllogo{
   max-width: 100%;
   height: auto;
